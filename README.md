@@ -20,7 +20,7 @@ This console application determines a given Pokemon's effectiveness against othe
    ```
 2. Navigate to the project directory:
    ```sh
-   cd pokemon-effectiveness-app
+   cd Pokeman_Console_App/Stuller_Console_App_Latest
    ```
 3. Restore dependencies:
    ```sh
